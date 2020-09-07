@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Every one 👋
 
 <!--
 **kerry-Cho/Kerry-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Kerry-Cho&show_icons=true&theme=dark&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerry-Cho&layout=compact)
