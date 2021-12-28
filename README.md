@@ -1,4 +1,4 @@
-I'm a Software developer from Korea 
+I'm a Software developer from Korea 🇰🇷
 
 **About me**
 
