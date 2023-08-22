@@ -2,7 +2,7 @@ I'm a Software developer from Korea 🇰🇷
 
 **About me**
 
-- 💼 Software Engineer at [SEMI-TS](https://github.com/SEMI-TS/)
+- 💼 Software Engineer at [Navifra](https://github.com/navifra/)
 
 - ❤️ I love writing TypeScript
 
